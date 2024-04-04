@@ -26,5 +26,7 @@ To start the Ktor server, follow these steps:
        val apiVersionBranch = "api/v1/"
    }
 
-2. build the Jar file i.e ./gradlew buildFatJat
+2. build the Jar file i.e ./gradlew buildFatJa2
 3. Run the fat jar ./gradlew runFatJar
+4. Check the api  documentation here [API Documentation](https://documenter.getpostman.com/view/27366427/2sA35LVKML)
+
